@@ -518,7 +518,7 @@ li.dropdown.open a {
 	float: left;
 	width: 36px;
 	height: 30px;
-	background-image: url(../img/services/services-icons-sprite.svg);
+	background-image: url(../img/services/services-icons-sprite.png);
 	background-repeat: no-repeat;
 	margin-right: 15px;
 }
